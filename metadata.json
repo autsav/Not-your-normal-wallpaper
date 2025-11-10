@@ -1,0 +1,5 @@
+{
+  "name": "AI Live Wallpaper Studio",
+  "description": "A responsive web app that allows users to generate and download stunning AI wallpapers for mobile devices using Google's Gemini API.",
+  "requestFramePermissions": []
+}
